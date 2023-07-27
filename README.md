@@ -1,5 +1,5 @@
 # **<p align="center">HOW TO DEPLOY VITE REACT APP📌</p>**
-
+🌻 [Live Website](https://mohinimahato.github.io/Vite-Deploy/) 
 ### Follow the steps mentioned below:
 
 0️⃣ Create a new vite app using the given command 
